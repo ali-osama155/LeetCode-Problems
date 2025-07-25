@@ -2,7 +2,9 @@
 
 Welcome to my personal collection of LeetCode solutions!  
 This repository is a journal of my problem-solving journey, where I tackle algorithm and data structure problems using **C++**, and occasionally other languages.
+
 My LeetCode Profile: https://leetcode.com/u/AliOsama155/
+
 ## 📌 Purpose
 
 - 📈 Improve my problem-solving and coding skills
